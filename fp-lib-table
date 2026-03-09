@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Assets")(type "KiCad")(uri "${KIPRJMOD}/Assets")(options "")(descr ""))
+  (lib (name "TST_103_01_T_D")(type "KiCad")(uri "C:/Users/herna/Desktop/kicadlibrerias/footprintCCTE/ASS_ETS/TST_103_01_T_D")(options "")(descr ""))
+)

@@ -1,0 +1,16 @@
+Reference,Value,,,Qty
+C1,100nF,,,1
+"D1,D2",1N4007,,,2
+D3,LED,,,3
+,Borneras de 2,,,3
+,Borneras de 3,,,4
+"K1,K2",Relay 5V 5A,,,2
+"Q1,Q2",2N2222A,,,2
+"R1,R2,R3,R4,R5,R11,R12",10k,,,7
+"R6,R7,R8,R9,R10,R13,R14,R15,R16",15k,,,9
+"R17,R18",510,,,2
+"R21,R22,R23",220,,,3
+U1,teensy 4.1,,,1
+U3,DCDC_StepDown_LM2596,,,1
+,Espadines Macho,,,
+,Espadines Hembra,,,
